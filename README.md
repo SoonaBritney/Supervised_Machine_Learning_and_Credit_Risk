@@ -9,7 +9,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ## Technology
 - Machine Learning
 - Python and Scikit-learn
-- Data Source: [LoanStats_2019Q1] (https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/LoanStats_2019Q1.zip)
+- Data Source: [LoanStats_2019Q1](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/LoanStats_2019Q1.zip)
 
 ## Deliverable 1 Requirements
 - For all three algorithms, the following have been completed:
