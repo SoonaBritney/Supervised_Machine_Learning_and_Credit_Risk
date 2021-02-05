@@ -1,5 +1,22 @@
 # Supervised_Machine_Learning_and_Credit_Risk
 
+## Background
+Jill commends you for all your hard work. Piece by piece, you’ve been building up your skills in data preparation, statistical reasoning, and machine learning. You are now ready to apply machine learning to solve a real-world challenge: credit card risk.
+
+# Technology:
+# Supervised Machine Learing and Credit Risk
+
+## Background
+
+Jill commends you for all your hard work. Piece by piece, you’ve been building up your skills in data preparation, statistical reasoning, and machine learning. You are now ready to apply machine learning to solve a real-world challenge: credit card risk.
+
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes. Jill asks you to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
+
+## Technology
+- Machine Learning
+- Python and Scikit-learn
+- Data Source: 
+
 ## Deliverable 1 Requirements
 - For all three algorithms, the following have been completed:
 - An accuracy score for the model is calculated (7.5 pt)
