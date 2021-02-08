@@ -62,9 +62,10 @@ We used the imbalanced-learn library to resample the data and built and evaluate
 
 For the extension, we trained and compared two different ensemble classifiers to predict loan risk and evaluated each model.
 
-**Train the model and generate predictions.**
--Calculate the balanced accuracy score.
--Generate a confusion matrix.
--Print the classification report (classification_report_imbalanced from imblearn.metrics).
--For the BalancedRandomForestClassifier, print the feature importance, sorted in descending order (from most to least important feature), along with the feature score.
--Lastly, we wrote a brief summary and analysis of the models’ performance, described the precision and recall scores, as well as the balanced accuracy score. Additionally, we ---included a final recommendation on the model to use, if any. If we did not recommend any of the models, we justified our reasoning.
+1) Train the model and generate predictions.**
+2) Calculate the balanced accuracy score.
+3) Generate a confusion matrix.
+4) Print the classification report (classification_report_imbalanced from imblearn.metrics).
+5) For the BalancedRandomForestClassifier, print the feature importance, sorted in descending order (from most to least important feature), along with the feature score.
+
+Lastly, we wrote a brief summary and analysis of the models’ performance, described the precision and recall scores, as well as the balanced accuracy score. Additionally, we included a final recommendation on the model to use, if any. If we did not recommend any of the models, we justified our reasoning.
