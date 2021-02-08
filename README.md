@@ -12,12 +12,16 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 - Data Source: [LoanStats_2019Q1](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/LoanStats_2019Q1.zip)
 
 ## Deliverable 1 Requirements
+[credit_risk_resampling.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_resampling.ipynb)
+
 - For all three algorithms, the following have been completed:
 - An accuracy score for the model is calculated (7.5 pt)
 - A confusion matrix has been generated (7.5 pt)
 - An imbalanced classification report has been generated (15 pt)
 
 ## Deliverable 2 Requirements
+[credit_risk_resampling.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_resampling.ipynb)
+
 The combinatorial SMOTEENN algorithm does the following:
 - An accuracy score for the model is calculated (5 pt)
 - A confusion matrix has been generated (5 pt)
@@ -25,6 +29,8 @@ The combinatorial SMOTEENN algorithm does the following:
 
 
 ## Deliverable 3 Requirements
+[credit_risk_ensemble.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_ensemble.ipynb)
+
 The BalancedRandomForestClassifier algorithm does the following:
 - An accuracy score for the model is calculated (2.5 pt)
 - A confusion matrix has been generated (2.5 pt)
