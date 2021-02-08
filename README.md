@@ -44,6 +44,7 @@ The EasyEnsembleClassifier algorithm does the following:
 ## Deliverable 4: Written Report on the Credit Risk Analysis (30 points)
 Please see the below:
 [credit_risk_resampling.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_resampling.ipynb)
+
 [credit_risk_ensemble.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_ensemble.ipynb)
 
 - Overview of the analysis: Explain the purpose of this analysis.
