@@ -43,22 +43,24 @@ The EasyEnsembleClassifier algorithm does the following:
 
 ## Challenge Summary
 [credit_risk_resampling.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_resampling.ipynb)
+
 We used the imbalanced-learn library to resample the data and built and evaluated logistic regression classifiers using the resampled data.
 
--Oversample the data using the RandomOverSampler and SMOTE algorithms.
--Undersample the data using the cluster centroids algorithm.
--Use a combination approach with the SMOTEENN algorithm.
--For each of the above:
-
-**Train a logistic regression classifier (from Scikit-learn) using the resampled data.**
--Calculate the balanced accuracy score using balanced_accuracy_score from sklearn.metrics.
--Generate a confusion_matrix.
--Print the classification report (classification_report_imbalanced from imblearn.metrics).
--We wrote a brief summary and analysis of the models’ performance. In the analysis, we described the precision and recall scores, as well as the balanced accuracy score. We, ----also, included a final recommendation on the model to use, if any. If we did not recommend any of the models, we justified our reasoning.
+1) Oversample the data using the RandomOverSampler and SMOTE algorithms.
+2) Undersample the data using the cluster centroids algorithm.
+3) Use a combination approach with the SMOTEENN algorithm.
+4) For each of the above:
+- Train a logistic regression classifier (from Scikit-learn) using the resampled data.
+- Calculate the balanced accuracy score using balanced_accuracy_score from sklearn.metrics.
+- Generate a confusion_matrix.
+- Print the classification report (classification_report_imbalanced from imblearn.metrics).
+- We wrote a brief summary and analysis of the models’ performance. In the analysis, we described the precision and recall scores, as well as the balanced accuracy score. We, ---also, included a final recommendation on the model to use, if any. If we did not recommend any of the models, we justified our reasoning.
 
 **Extension**
+
 [credit_risk_ensemble.ipynb])(https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_ensemble.ipynb)
--For the extension, we trained and compared two different ensemble classifiers to predict loan risk and evaluated each model.
+
+For the extension, we trained and compared two different ensemble classifiers to predict loan risk and evaluated each model.
 
 **Train the model and generate predictions.**
 -Calculate the balanced accuracy score.
