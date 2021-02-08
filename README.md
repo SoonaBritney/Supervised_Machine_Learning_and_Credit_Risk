@@ -58,7 +58,7 @@ We used the imbalanced-learn library to resample the data and built and evaluate
 
 **Extension**
 
-[credit_risk_ensemble.ipynb])(https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_ensemble.ipynb)
+[credit_risk_ensemble.ipynb](https://github.com/SoonaBritney/Supervised_Machine_Learning_and_Credit_Risk/blob/main/credit_risk_ensemble.ipynb)
 
 For the extension, we trained and compared two different ensemble classifiers to predict loan risk and evaluated each model.
 
